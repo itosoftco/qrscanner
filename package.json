@@ -63,7 +63,7 @@
       "cordova-base64-to-gallery": {}
     }
   },
-    "resolutions": {
+  "resolutions": {
     "@babel/preset-env": "^7.8.7",
     "@babel/compat-data": "~7.8.0"
   }
